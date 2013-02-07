@@ -1,7 +1,12 @@
+[unfinished]
+
 Task:
 
 Write a descriptive abstract that defines your topic.
 Your descriptive abstract must list and identify the topics and questions to be answered in the report.
 Your abstract should be approximately 100 words.
 
-TOPIC: _____________________________________________________________
+TOPIC: The social and intellectual effects of Pseudoscience and Anti-Science.
+
+Poe's Law
+http://rationalwiki.org/wiki/Pseudoscience
