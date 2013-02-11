@@ -1,13 +1,21 @@
 Task:
 
 Write a descriptive abstract that defines your topic.
-Your descriptive abstract must list and identify the topics and questions to be answered in the report.
+Your descriptive abstract must list and identify the topics and questions to be answered
+in the report.
 Your abstract should be approximately 100 words.
 
 TOPIC: The social and intellectual effects of Pseudoscience and Anti-Science.
 
-In order to rehabilitate a person from an instance of pseudoscience, a parody or an intentionally obviously wrong argument, aka more pseudoscience, is required to compare against in order to show the fallacy of the original pseudoscience. Unfortunately, this could just make the problem worse, as summarized in Poe's Law:
+In order to rehabilitate a person from an instance of pseudoscience, a parody or an
+intentionally obviously wrong argument, aka more pseudoscience, is required to compare
+against in order to show the fallacy of the original pseudoscience. Unfortunately, this
+could just make the problem worse, as summarized in Poe's Law:
 	"Without a winking smiley or other blatant display of humor, it is
 	impossible to create a parody of Fundamentalism that SOMEONE won't
 	mistake for the real thing."
-In other words, trying to argue against pseudoscience is a very dangerous effort since the arguments against can devolve into pseudoscience themselves if not kept in check. In order, to keep the arguments under control, they are written so that their flaws are as obvious as possible and cannot be twisted. This Paper, therefore, is an exercise in showing the fallacy of Pseudoscience by writing in stupidity.
+In other words, trying to argue against pseudoscience is a very dangerous effort since the
+arguments against can devolve into pseudoscience themselves if not kept in check. In
+order, to keep the arguments under control, they are written so that their flaws are as
+obvious as possible and cannot be twisted. This Paper, therefore, is an exercise in
+showing the fallacy of Pseudoscience by writing in stupidity.
