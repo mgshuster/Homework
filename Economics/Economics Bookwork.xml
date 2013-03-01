@@ -88,15 +88,22 @@
    <para/>
    <para>p.153</para>
    <informaltable frame="all">
-      <tgroup cols="3">
+      <tgroup cols="4">
          <colspec colnum="1" colname="c1"/>
          <colspec colnum="2" colname="c2"/>
-         <colspec colnum="3" colname="c3"/><tbody><row>
+         <colspec colnum="3" colname="c3"/>
+         <colspec colnum="4" colname="c4"/><tbody><row>
             <entry>
                <para>You give each worker in your factory a specialized job</para>
             </entry>
             <entry>
                <para>Labor Productivity +</para>
+            </entry>
+            <entry>
+               <para/>
+            </entry>
+            <entry>
+               <para/>
             </entry>
          </row>
          <row>
@@ -106,6 +113,12 @@
             <entry>
                <para>Input Costs -</para>
             </entry>
+            <entry>
+               <para/>
+            </entry>
+            <entry>
+               <para/>
+            </entry>
          </row>
          <row>
             <entry>
@@ -113,6 +126,12 @@
             </entry>
             <entry>
                <para>Technology +</para>
+            </entry>
+            <entry>
+               <para/>
+            </entry>
+            <entry>
+               <para/>
             </entry>
          </row>
          <row>
@@ -122,6 +141,12 @@
             <entry>
                <para>Number of Producers -</para>
             </entry>
+            <entry>
+               <para/>
+            </entry>
+            <entry>
+               <para/>
+            </entry>
          </row>
          <row>
             <entry>
@@ -130,8 +155,27 @@
             <entry>
                <para>Government Action -</para>
             </entry>
+            <entry>
+               <para/>
+            </entry>
+            <entry>
+               <para/>
+            </entry>
          </row></tbody></tgroup>
    </informaltable>
    <para/>
    <para/>
+   <para>p. 172</para>
+   <orderedlist>
+      <listitem>
+         <para>pre-shift – $3.67, post-shift – $2.33; no, because nonlinear or slope≥0 or generally weird demand curves (like market bubbles and currency) can act weird; yes, because: ∂b_s=Left/Right shift in supply curve; b_d = $6; m_s = 10 sandwiches/$; m_d = -20 sandwiches/$; change in equilibrium price per Left shift in supply curve = ∂p/∂b_s = -$1/30 sandwiches</para>
+         <para>q_d(p)=q_s(p); q_d(p)=m_d•p+b_d; ∂p/∂b_s=∂([b_s-b_d]/[m_d-m_s])/∂b_s</para>
+      </listitem>
+      <listitem>
+         <para>decrease; change in equilibrium price per Right shift in demand curve = ∂p/∂b_s = -$1/30 sandwiches; horizontal shifts of the supply curve have the same effect on equilibrium price as horizontal shifts of the demand curve in the other direction (relativity)</para>
+      </listitem>
+      <listitem>
+         <para>S3, D3; S3 shifted 10 sandwiches to the right from S2, and D3 shifted 40 sandwiches to the left of D1</para>
+      </listitem>
+   </orderedlist>
 </article>
